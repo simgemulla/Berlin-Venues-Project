@@ -15,6 +15,6 @@ In this project, the data will be based on Berlin location.
  
  - I have another data set which will be combining with other later, contains Postal Codes and Boroughs of Berlin.
  
- - I will also be using Foursquare API for getting most popular venues in Berlin.
+ - I will also be using Foursquare API for getting most popular venues in Berlin including their locations, categories etc.
 
 By combining these three data sets I will be exploring, clustering and make data analysis based on combined data.
